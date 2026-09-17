@@ -13,22 +13,22 @@
 ---
 
 ```text
-                                      ┌─────────────────────────────────────────────────────────┐
-                                      │                        PROFILE                          │
-                                      ├─────────────────────────────────────────────────────────┤
-                                      │                                                         │
-                                      │  name        :: Anika Patidar                           │
-                                      │  role        :: CSBS Student                            │
-                                      │  institute   :: IET-DAVV                                │
-                                      │                                                         │
-                                      │  focus       :: Development/                            │
-                                      │                 AI / Intelligent Systems                │
-                                      │                 DSA / Problem Solving /                 │
-                                      │                 Research                                │
-                                      │                                                         │
-                                      │  status      :: building > learning > improving         │
-                                      │                                                         │
-                                      └─────────────────────────────────────────────────────────┘
+                                    ┌─────────────────────────────────────────────────────────┐
+                                    │                        PROFILE                          │
+                                    ├─────────────────────────────────────────────────────────┤
+                                    │                                                         │
+                                    │  name        :: Anika Patidar                           │
+                                    │  role        :: CSBS Student                            │
+                                    │  institute   :: IET-DAVV                                │
+                                    │                                                         │
+                                    │  focus       :: Development/                            │
+                                    │                 AI / Intelligent Systems                │
+                                    │                 DSA / Problem Solving /                 │
+                                    │                 Research                                │
+                                    │                                                         │
+                                    │  status      :: building > learning > improving         │
+                                    │                                                         │
+                                    └─────────────────────────────────────────────────────────┘
  ```
 
 ## ⚙️ `tech_stack`
